@@ -1,0 +1,7 @@
+/root/IPV4/cmake-build-debug/CMakeFiles/IPV4.dir
+/root/IPV4/cmake-build-debug/CMakeFiles/server.dir
+/root/IPV4/cmake-build-debug/CMakeFiles/test.dir
+/root/IPV4/cmake-build-debug/CMakeFiles/test2.dir
+/root/IPV4/cmake-build-debug/CMakeFiles/client.dir
+/root/IPV4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/IPV4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
